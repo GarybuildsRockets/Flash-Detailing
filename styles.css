@@ -31,7 +31,7 @@ body {
 
 .logo {
   height: 250px;
-  display: circle;
+  display: block;
   margin: 0 auto 0.5rem;
 }
 
